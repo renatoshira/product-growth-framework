@@ -14,5 +14,5 @@ Não esqueça de ler o nosso [guia de contribuição]
 A estrutura de diretorios do projeto:
 - [build](https://github.com/Community-Knowledge/product-growth-framework/tree/master/build): diretório com a versão mais atual do guia. É aqui que ficarão os arquivos finais.
 - [working_dir](https://github.com/Community-Knowledge/product-growth-framework/tree/master/working_dir): Aqui ficam os arquivos de trabalho do projeto, conteúdos temporários ou parciais.  
-- [working_help](https://github.com/Community-Knowledge/product-growth-framework/tree/master/working_dir): Aqui ficam os arquivos de ajuda para contribuidores do projeto, com guias de contribuição geral, guias de criação de issues, guias de formatos de arquivos, guia de uso do github, etc
+- [guides](https://github.com/Community-Knowledge/product-growth-framework/tree/master/guides): Aqui ficam os arquivos de ajuda para contribuidores do projeto, com guias de contribuição geral, guias de criação de issues, guias de formatos de arquivos, guia de uso do github, etc
 
