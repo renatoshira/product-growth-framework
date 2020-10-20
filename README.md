@@ -6,7 +6,7 @@ O Objetivo desse repositorio é criar um guia de aprendizado opinativo, análogo
 ## Formato
 Todo o desenvolvimento do projeto será atraves do github, organizado de modo que qualquer um possa contribuir com o projeto (queremos que não programadores consigam contribuir de forma fácil!). Para isso, basta **buscar alguma tarefa** nas [issues](https://github.com/Community-Knowledge/product-growth-framework/issues), e ela deve conter todo o contexto necessário para a execução. Contribua! Algumas tarefas são simples e não necessitam de nenhum conhecimento prévio.
 
-Além disso, você também pode contribuir **criando tarefas**, **organizando** ou **revisando espontaneamente** o projeto
+Além disso, você também pode contribuir **criando tarefas**, **organizando** ou **revisando espontaneamente** o projeto. Se quiser ter uma visão geral do que estamos fazendo e para onde vamos, visite nosso [masterplan](https://github.com/Community-Knowledge/product-growth-framework/blob/main/working_dir/masterplan.md)
 
 Não esqueça de ler o nosso [guia de contribuição]
 
