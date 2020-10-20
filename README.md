@@ -1,7 +1,7 @@
 # product-growth-framework
 
 ## Objetivo
-O Objetivo desse repositorio é criar um guia de aprendizado opinativo, análogo do [https://roadmap.sh/], para a carreira de Product Manager de produtos digitais. Associado a ele, conteúdos próprios e curadoria de ótimas referências para aprendizado e evolução, principalmente de [hard-skills](https://www.gupy.io/blog/hard-skills-e-soft-skills). Desse modo, essse material possará ser um ponto de partida e evolução para a carreira de qualquer PM da área digital.
+O Objetivo desse repositorio é criar um guia de aprendizado opinativo, análogo do [https://roadmap.sh/], para a carreira de Product Manager de produtos digitais. Associado a ele, conteúdos próprios e curadoria de ótimas referências para aprendizado e evolução, principalmente de [hard-skills](https://www.gupy.io/blog/hard-skills-e-soft-skills). Desse modo, esse material poderá ser um ponto de partida e evolução para a carreira de qualquer PM da área digital.
 
 ## Formato
 Todo o desenvolvimento do projeto será atraves do github, organizado de modo que qualquer um possa contribuir com o projeto (queremos que não programadores consigam contribuir de forma fácil!). Para isso, basta **buscar alguma tarefa** nas [issues](https://github.com/Community-Knowledge/product-growth-framework/issues), e ela deve conter todo o contexto necessário para a execução. Contribua! Algumas tarefas são simples e não necessitam de nenhum conhecimento prévio.
