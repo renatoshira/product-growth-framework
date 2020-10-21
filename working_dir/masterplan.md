@@ -7,6 +7,7 @@ Esse é o plano geral do projeto. Aqui você encontrará uma visão mais geral d
 - guias de contribuição
 - estrutura de diretórios inicial
 - padrões iniciais
+- equipe de colaboradores iniciais
 
 **2. Definição das grandes áreas**
 - O roadmap de PM deve ter grandes áreas que depois devem ser subdivididas. Exemplo: Produto, Processos, Pessoas. 
