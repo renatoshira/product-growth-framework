@@ -1,4 +1,6 @@
-# product-growth-framework
+# Roadmap do Product Manager
+Um guia de skills para a carreira de Product Manager. 
+> Em construção (estágios iniciais). Participe!
 
 ## Objetivo
 O Objetivo desse repositorio é criar um guia de aprendizado opinativo, análogo do [https://roadmap.sh/], para a carreira de Product Manager de produtos digitais. Associado a ele, conteúdos próprios e curadoria de ótimas referências para aprendizado e evolução, principalmente de [hard-skills](https://www.gupy.io/blog/hard-skills-e-soft-skills). Desse modo, esse material poderá ser um ponto de partida e evolução para a carreira de qualquer PM da área digital.
@@ -6,9 +8,11 @@ O Objetivo desse repositorio é criar um guia de aprendizado opinativo, análogo
 ## Formato
 Todo o desenvolvimento do projeto será atraves do github, organizado de modo que qualquer um possa contribuir com o projeto (queremos que não programadores consigam contribuir de forma fácil!). Para isso, basta **buscar alguma tarefa** nas [issues](https://github.com/Community-Knowledge/product-growth-framework/issues), e ela deve conter todo o contexto necessário para a execução. Contribua! Algumas tarefas são simples e não necessitam de nenhum conhecimento prévio.
 
-Além disso, você também pode contribuir **criando tarefas**, **organizando** ou **revisando espontaneamente** o projeto
+Além disso, você também pode contribuir **criando tarefas**, **organizando** ou **revisando espontaneamente** o projeto. Se quiser ter uma visão geral do que estamos fazendo e para onde vamos, visite nosso [masterplan](https://github.com/Community-Knowledge/product-growth-framework/blob/main/working_dir/masterplan.md)
 
 Não esqueça de ler o nosso [guia de contribuição]
+
+Obs.: grande parte desse projeto vai ser desenvolvido em arquivos [Markdown(.md)](https://pt.wikipedia.org/wiki/Markdown). Familiarize-se com ele em alguns minutos [aqui](https://www.markdowntutorial.com/).
 
 ## Estrutura
 A estrutura de diretorios do projeto:
